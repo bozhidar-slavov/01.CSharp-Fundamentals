@@ -1,0 +1,17 @@
+﻿Visual Studio
+Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce .NET code
+
+Eclipse
+This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. It is fully extensible to use languages such as Ruby, C, C++ and many many more.
+
+Netbeans
+The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment.
+
+
+Code::Blocks
+Unlike the other products seen thus far, Code::Blocks, which is built on the wxWidgets framework, is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. Code::Blocks is distributed under the GPL v3.0 license which means it can be used freely by anyone.
+
+
+Aptana Studio 3
+
+If web and scripting languages are more of your style, Aptana is well suited for the task. PHP, Ruby on Rails, and Python are supported as well as the likes of Adobe AIR.

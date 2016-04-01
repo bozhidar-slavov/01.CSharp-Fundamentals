@@ -1,0 +1,9 @@
+﻿Java is programming language that is object-oriented, structured,imperative,functional.Java is one of the most popular programming languages in use, particulary for client-server web applications.
+
+Python is a widely used high-level prgramming language.Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code that would be possible in laguages such as C.
+
+PHP is a server-side scripting language designed for web development.As of January 2013 PHP was installed on more than 240milion websites and 2.1 milion web servers.
+
+SQL is a special-purpose programming language designed for managing data held in a relational database management system.SQL consists of a data definition language and a data manipulation language. The scope of SQL includes data insert, query, update and delete, schema creation and modification, and data access control.
+
+C++ is a general purpose programming language.It has imperative object-oriented and generic programming features, while also providing the facilities for low level memory manipulation.
