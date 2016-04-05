@@ -4,11 +4,11 @@ class ExtractBitFromInteger
 {
     static void Main()
     {
-        int number = int.Parse(Console.ReadLine());
+        long number = long.Parse(Console.ReadLine());
         int position = int.Parse(Console.ReadLine());
 
-        int foundBit = number >> position;
-        int bit = foundBit & 1;
+        long foundBit = number >> position;
+        long bit = foundBit & 1;
         
         Console.WriteLine(bit);
     }
