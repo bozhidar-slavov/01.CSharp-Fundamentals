@@ -4,20 +4,20 @@ class ModifyABit
 {
     static void Main()
     {
-        int number = int.Parse(Console.ReadLine());
+        ulong number = ulong.Parse(Console.ReadLine());
         int position = int.Parse(Console.ReadLine());
         int value = int.Parse(Console.ReadLine());
         
         if (value == 1)
         {
-            int setOne = 1 << position;
-            int foundBitOne = number | setOne;
+            ulong setOne = (ulong)1 << position;
+            ulong foundBitOne = number | setOne;
             Console.WriteLine(foundBitOne);
         }
         else
         {
-            int setZero = ~(1 << position);
-            int foundBitZero = number & setZero;
+            ulong setZero = (ulong)~(1 << position);
+            ulong foundBitZero = number & setZero;
             Console.WriteLine(foundBitZero);
         }
     }
