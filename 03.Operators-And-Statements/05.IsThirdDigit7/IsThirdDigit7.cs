@@ -18,5 +18,5 @@ class IsThirdDigit7
         {
             Console.WriteLine("false " + number);
         }
-    }   
+    }
 }
