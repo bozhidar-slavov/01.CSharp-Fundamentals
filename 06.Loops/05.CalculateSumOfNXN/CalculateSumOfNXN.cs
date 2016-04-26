@@ -4,11 +4,11 @@ class CalculateSumOfNXN
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
+        double n = int.Parse(Console.ReadLine());
         double x = double.Parse(Console.ReadLine());
 
         double sum = 1;
-        int nFactorial = 1;
+        double nFactorial = 1;
 
         for (int i = 1; i <= n; i++)
         {
